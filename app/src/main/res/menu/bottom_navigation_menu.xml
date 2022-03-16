@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:iconTint="?attr/colorSecondary"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/nav_mail"
+        android:iconTint="?attr/colorSecondary"
+        android:icon="@drawable/ic_baseline_mail_24"
+        android:title="Mail"
+
+        />
+    <item
+        android:id="@+id/nav_profile"
+        android:iconTint="?attr/colorSecondary"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"
+
+        />
+</menu>

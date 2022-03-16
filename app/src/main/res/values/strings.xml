@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChangebondTask</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="mail_fragment">Mail Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+</resources>
